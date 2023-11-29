@@ -1,7 +1,7 @@
 # BitmojiGAN
 Generating Bitmoji images using Deep Convolutional GANs
 
-This project is meant to produce unique Bitmojis and Avatars not belonging to any one.
+This project is meant to generate unique Bitmojis and Avatars.
 
 The intended results should look like below:
 
